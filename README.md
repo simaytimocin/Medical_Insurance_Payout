@@ -17,3 +17,4 @@ Region = Which region of the country the customer belongs to
 
 Charges = Target variable, the expenditure for the customer
 
+Kaggle link: https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
